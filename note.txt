@@ -1,0 +1,4 @@
+with open mode
+wb: 寫入二進制文件
+Regular Expression
+中文正則表達式 [\u4e00-\u9fa5][\u4E00-\u9FFF]
